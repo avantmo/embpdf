@@ -1,0 +1,12 @@
+embpdf
+------
+
+PDF Viewer Suitable for Embedded Systems (Android)
+
+embpdf - A PDF viewer developed by avantMo Ltd suitable or embedded systems based on open source projects including MuPDF, IJG-JPEG, OpenJPEG, jbig2dec, FreeType and zlib.
+
+Currently concentrating on the android platform.
+
+Apart from the terms of the license (GPL V3), additional attribution to avantMo Ltd (www.avantmo.com) must appear in all derived works. This description must appear as is on each source file and in the about and first screen (android activity) on each run. 
+
+embpdf's logo embeds avantMo's logo within and must not be reused without permission. 
